@@ -1,0 +1,25 @@
+*{
+    background-color:#c7c6c6;
+}
+
+
+#title {
+    font-family:"Times New Roman";
+    font-size: 32px;
+    font-weight:bold;
+    color:aliceblue;
+    background-color: #9a9a9a;
+}
+.cereal {
+    text-align: left;
+}
+.sanwich {
+    text-align: right;
+}
+.link {
+   
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px;
+    color:chocolate;
+    
+}
